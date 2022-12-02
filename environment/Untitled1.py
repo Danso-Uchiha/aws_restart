@@ -1,0 +1,6 @@
+print ("hbvhj")
+print ("jkbck")
+print ("kiujbf")
+print ("jkibnfo")
+print ("hello world")
+print("Hello world")
